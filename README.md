@@ -16,9 +16,13 @@ Here's a glimpse of Ihsan's stunning user interface, featuring our signature gla
 
 | Splash & Home Screen | Quran Index | Adhkar Hub |
 | :---: | :---: | :---: |
-| `[Your Screenshot Here]` | `[Your Screenshot Here]` | `[Your Screenshot Here]` |
-| **Adhkar Reader** | **Settings** | **Adhan Notification** |
-| `[Your Screenshot Here]` | `[Your Screenshot Here]` | `[Your Screenshot Here]` |
+| `[Home]` (https://github.com/jamalsalem0/ihsan/blob/main/assets/screenshots/home.png)| 
+`[Quran]` (https://github.com/jamalsalem0/ihsan/blob/main/assets/screenshots/quran.png) |
+ `[Quran Reading]` (https://github.com/jamalsalem0/ihsan/blob/main/assets/screenshots/read.png)|
+| 
+| `[Adkar]`(https://github.com/jamalsalem0/ihsan/blob/main/assets/screenshots/adkar.png) |
+ `[Adkar Reading]`(https://github.com/jamalsalem0/ihsan/blob/main/assets/screenshots/readadkar.png) | 
+ `[Setting]` (https://github.com/jamalsalem0/ihsan/blob/main/assets/screenshots/setting.png)|
 
 ---
 
